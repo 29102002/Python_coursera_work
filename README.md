@@ -1,6 +1,6 @@
 # Python_coursera_work!
 # Question 1: Use yfinance to Extract Stock Data
-[Screenshot 2024-10-17 151642](https://github.com/user-attachments/assets/9d4ff292-ee97-4d51-b5fb-98e0a9912c7d)
+![Screenshot 2024-10-17 151642](https://github.com/user-attachments/assets/9d4ff292-ee97-4d51-b5fb-98e0a9912c7d)
 # Question 2: Use Webscraping to Extract Tesla Revenue Data
 ![Screenshot 2024-10-17 152848](https://github.com/user-attachments/assets/1a8393ac-0855-4654-aae4-42095f698507)
 
